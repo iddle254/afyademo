@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 node_modules
+=======
+node_modules/**/*
+.expo/*
+npm-debug.*
+package-lock.json
+yarn.lock
+*.jks
+*.p12
+*.key
+*.mobileprovision
+>>>>>>> c45f0c3a7ec6221061a87f9d5d5976ab2aaeeff9
